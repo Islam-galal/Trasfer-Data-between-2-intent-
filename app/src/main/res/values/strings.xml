@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">AndroidDeveloper1</string>
+    <string name="edit_massage">enter a massage</string>
+    <string name="bottom_send">Send</string>
+</resources>
